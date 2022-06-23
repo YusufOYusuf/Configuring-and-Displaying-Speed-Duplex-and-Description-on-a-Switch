@@ -18,7 +18,7 @@ In this lab, I learned to configure and display speed, duplex, and description o
 
 <p align="center">
 From the desktop, open PuTTY: <br/>
-<img src="https://i.postimg.cc/mhfBCM2w/Screen-Shot-2022-06-17-at-3-52-11-PM.png" height="80%" width="80%" alt="Configuring and Displaying Speed, Duplex, and Description on a Swtich Steps"/>
+<img src="https://i.postimg.cc/SNvBCwkd/Screen-Shot-2022-06-22-at-8-33-51-PM.png" height="80%" width="80%" alt="Configuring and Displaying Speed, Duplex, and Description on a Swtich Steps"/>
 <br />
   
   
@@ -32,14 +32,14 @@ In the PuTTY Configuration dialog box under the Saved Sessions section, double-c
   
 <br />
 In the ASA terminal window, type admin@ASA's password as ******** and press Enter:  <br/>
-<img src="https://i.postimg.cc/qq9yKm35/Screen-Shot-2022-06-17-at-4-00-27-PM.png" height="80%" width="80%" alt="Configuring and Displaying Speed, Duplex, and Description on a Swtich Steps"/>
+<img src="https://i.postimg.cc/Nfn1txkL/Screen-Shot-2022-06-22-at-8-36-59-PM.png" height="80%" width="80%" alt="Configuring and Displaying Speed, Duplex, and Description on a Swtich Steps"/>
 <br />
   
   
   
 <br />
 In the ASA terminal window, execute command "en" to enter into enable mode:  <br/>
-<img src="https://i.postimg.cc/x1781kL6/Screen-Shot-2022-06-17-at-4-02-37-PM.png" height="80%" width="80%" alt="Configuring and Displaying Speed, Duplex, and Description on a Swtich Steps"/>
+<img src="https://i.postimg.cc/9Q71nfq4/Screen-Shot-2022-06-22-at-8-42-27-PM.png" height="80%" width="80%" alt="Configuring and Displaying Speed, Duplex, and Description on a Swtich Steps"/>
 <br />
 
   
@@ -52,7 +52,7 @@ In the ASA terminal window, execute command "en" to enter into enable mode:  <br
  <br>5. description Printer on 3rd floor, preset to 100/full</br>
  <br>6.end</br>
  <br/>
-<img src="https://i.postimg.cc/6pDZ1bb6/Screen-Shot-2022-06-17-at-4-10-37-PM.png" height="80%" width="80%" alt="Configuring and Displaying Speed, Duplex, and Description on a Swtich Steps"/>
+<img src="https://i.postimg.cc/Df5X7KKx/Screen-Shot-2022-06-22-at-8-45-05-PM.png" height="80%" width="80%" alt="Configuring and Displaying Speed, Duplex, and Description on a Swtich Steps"/>
 <br />
 
 
@@ -60,7 +60,7 @@ In the ASA terminal window, execute command "en" to enter into enable mode:  <br
 <br> 1. show running-config interface GigabitEthernet 0/6</br>
 <br> 2. exit</br>
 <br/>
-<img src="https://i.postimg.cc/Jhsqsdtj/Screen-Shot-2022-06-17-at-4-19-58-PM.png" height="80%" width="80%" alt="Configuring and Displaying Speed, Duplex, and Description on a Swtich Steps"/>
+<img src="https://i.postimg.cc/3wvn4xZj/Screen-Shot-2022-06-22-at-8-47-54-PM.png" height="80%" width="80%" alt="Configuring and Displaying Speed, Duplex, and Description on a Swtich Steps"/>
 <br />
   </p>
  
